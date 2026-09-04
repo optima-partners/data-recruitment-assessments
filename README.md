@@ -2,7 +2,7 @@
 
 ## Background
 
-Box Box Analytics is a fast-growing online video channel covering the Formula Apex championship.
+Box Box Analytics is a fast-growing YouTube channel covering the Formula Apex championship.
 The channel has grown quickly over the last three seasons and wants to put data at the centre
 of its content planning. They have engaged our consultancy to help them understand their
 performance data and build the foundations of an automated analytics capability.
@@ -57,9 +57,12 @@ Put your deliverables where your brief specifies: final outputs and the deck in
 
 ## Submitting
 
-Send your completed work back to the person who sent you this assignment: either a
-zip of the repository including your `results/` and `solution/` folders, or a link to
-a **private** copy of the repository that they can access.
+Send your completed work back to the person who sent you this assignment: ideally this would
+be a link to your copy of the repository hosted in a source control system of your choice, containing
+your workings and your results. If you submit via files attached to an email, these will likely be blocked by 
+email security - If you submit this way, please follow up with a second, plaintext email to prompt a check for any blocked emails.
+
+Please submit this 24 hours before any follow up meetings to allow time to review. If you have any problems with this assignment or submission, please reach out via email. 
 
 Please do not fork this repository or open pull requests against it — submissions
 would be publicly visible to other candidates.
